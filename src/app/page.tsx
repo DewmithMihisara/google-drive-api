@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-// export default function Home() {
+export default function Home() {
 //   const { google }=require('googleapis');
 //   const CLIENT_ID = '937533774641-cmislbnthip0107uhgn7p6od62s2m3me.apps.googleusercontent.com';
 //   const CLIENT_SECRET = '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';
